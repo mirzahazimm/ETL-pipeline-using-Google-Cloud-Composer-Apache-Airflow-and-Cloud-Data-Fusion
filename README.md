@@ -19,7 +19,7 @@ This repository contains an **ETL pipeline** built with:
      - **Cloud Data Fusion Pipeline** to transform & load data into BigQuery.
 
 3. **Analyze & Visualize**
-   - Power BI / Looker connects to **BigQuery** for visualization.
+   - Looker connects to **BigQuery** for visualization.
 
 ---
 
