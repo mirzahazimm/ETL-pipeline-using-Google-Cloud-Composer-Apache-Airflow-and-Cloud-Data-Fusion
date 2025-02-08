@@ -6,7 +6,7 @@ This repository contains an **ETL pipeline** built with:
 - **Google Cloud Storage (GCS)** to store raw data.
 - **Cloud Data Fusion** to transform and load data into **BigQuery**.
 - **BigQuery** as the final data warehouse.
-- **Looker / Power BI** for visualization.
+- **Looker** for visualization.
 
 ### **📌 Workflow**
 1. **Extract Data (Python Script)**
