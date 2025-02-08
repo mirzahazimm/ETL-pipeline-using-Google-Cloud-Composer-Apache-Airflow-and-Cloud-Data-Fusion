@@ -25,3 +25,8 @@ This repository contains an **ETL pipeline** built with:
 
 ## 🚀 **Project Structure**
 ![image](https://github.com/user-attachments/assets/a38fefce-47b1-454a-b6ea-e4471f5c19aa)
+
+## 🚀 **Looker Dashboard**
+![image](https://github.com/user-attachments/assets/a1fbe896-a038-4f0a-b4ca-e8ad116e5bc3)
+
+
